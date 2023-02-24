@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ededdyj
-- 👀 I’m interested in web3.
-- 🌱 I’m currently learning solidity.
+- I enjoy python.
+- I’m interested in web3.
 
 <!---
 ededdyj/ededdyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
